@@ -1,4 +1,4 @@
-this week was amazing from 12/07/2025 to
+this week was amazing from 12/07/2025 to 18/07/2025
 
 - week 0
   learnt the basics of computing and practiced the basic code logic building on scratch
