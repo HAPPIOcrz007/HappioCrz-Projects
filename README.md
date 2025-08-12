@@ -17,7 +17,7 @@ Projects directory for HappioCrz
 - 📌 Learned about arrays, strings, command-line arguments, and function abstraction
 
 ## Week 3 – Algorithms
-- [`tideman.c`](./Cs50/week3/tideman.c): Implements the Tideman (Ranked Pairs) voting system
+- [`tideman.c`](./Cs50/week3/tideman/tideman.c): Implements the Tideman (Ranked Pairs) voting system
   - Uses sorting, graph locking, and cycle detection
   - Passed all `check50` (✅ 18/18) and `style50` (✅ 1.00)
 - 📌 Studied searching/sorting algorithms (linear, binary, selection, bubble, insertion)
