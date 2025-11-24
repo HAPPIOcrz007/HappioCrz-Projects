@@ -1,4 +1,6 @@
+@echo off
 python -m venv venv
-venv\Scripts\activate
+call venv\Scripts\activate.bat
 pip install -r requirements.txt
 python main.py
+pause
